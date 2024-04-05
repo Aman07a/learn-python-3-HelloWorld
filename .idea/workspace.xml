@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99c7382c-2063-4eac-9065-573c8e13dc4b" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/python-furniture-store.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99c7382c-2063-4eac-9065-573c8e13dc4b" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +64,7 @@
     "Python.plus-equals.executor": "Run",
     "Python.print.executor": "Run",
     "Python.python-block-letters.executor": "Run",
+    "Python.python-furniture-store.executor": "Run",
     "Python.review.executor": "Run",
     "Python.script.executor": "Run",
     "Python.strings.executor": "Run",
