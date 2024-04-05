@@ -63,6 +63,7 @@
     "Python.numbers.executor": "Run",
     "Python.plus-equals.executor": "Run",
     "Python.print.executor": "Run",
+    "Python.review.executor": "Run",
     "Python.script.executor": "Run",
     "Python.strings.executor": "Run",
     "Python.variables.executor": "Run",
