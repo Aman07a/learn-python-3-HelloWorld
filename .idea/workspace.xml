@@ -56,6 +56,7 @@
     "Python.changing-numbers.executor": "Run",
     "Python.errors.executor": "Run",
     "Python.exponents.executor": "Run",
+    "Python.modulo.executor": "Run",
     "Python.numbers.executor": "Run",
     "Python.script.executor": "Run",
     "Python.strings.executor": "Run",
